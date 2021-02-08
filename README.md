@@ -1,2 +1,2 @@
 # mb-project1
-this is a array project of mountblue.
+this is an array project of mountblue.
